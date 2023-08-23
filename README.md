@@ -12,7 +12,6 @@
         <li><a href="#key-features">Key Features</a></li>
       </ul>
     </li>
-    <li><a href="#live-demo">🚀 Live Demo</a></li>
     <li><a href="#getting-started">💻 Getting Started</a>
       <ul>
         <li><a href="#setup">Setup</a></li>
@@ -51,13 +50,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a id="live-demo"></a>
-**Cooming soon**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a id="getting-started"></a>
@@ -73,10 +65,6 @@ To clone this repository to your desired folder, run the following command: <br>
 ```
 git clone git@github.com:Kidd254/Decode_Morse_Code.git
 ```
-
-### Deployment
-**Cooming soon**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
