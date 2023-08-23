@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# DecodeMorseCode class provides methods for decoding Morse code messages.
 class DecodeMorseCode
   MORSE_CODE = {
     '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D',
@@ -23,6 +26,6 @@ class DecodeMorseCode
   end
 end
 
-message = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
+message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_message = DecodeMorseCode.decode(message)
 puts decoded_message
